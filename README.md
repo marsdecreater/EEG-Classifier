@@ -1,6 +1,4 @@
-我来帮你编写 README.md 和 requirements.txt 文件。
 
-首先是 README.md：
 
 ```markdown:d:\TSD\github\README.md
 # EEG-Classifier
@@ -84,16 +82,5 @@ python train.py
 [MIT License](LICENSE)
 ```
 
-然后是 requirements.txt：
 
-```plaintext:d:\TSD\github\requirements.txt
-torch>=1.9.0
-numpy>=1.19.2
-pandas>=1.2.4
-scikit-learn>=0.24.2
-wandb>=0.12.0
-seaborn>=0.11.2
-matplotlib>=3.4.3
-tqdm>=4.62.3
-```
 
