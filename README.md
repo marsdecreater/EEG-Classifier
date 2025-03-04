@@ -26,14 +26,14 @@
 ## 数据集结构
 
 数据集应按以下结构组织：
-```
+
 processed_dataset_v5/
     ├── gesture1/
     ├── gesture2/
     ├── gesture3/
     ...
     └── gesture10/
-```
+
 
 ## 使用方法
 
@@ -80,7 +80,7 @@ python train.py
 ## 许可证
 
 [MIT License](LICENSE)
-```
+
 
 
 
